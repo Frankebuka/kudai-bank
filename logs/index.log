@@ -1,0 +1,40 @@
+2024-08-14 18:05:13 error : Invalid login detail 
+2024-08-16 07:29:24 error : User can not transfer to his own account  
+2024-08-16 07:30:14 error : Insufficient balance to complete this transfer 
+2024-08-16 07:31:51 error : Invalid login detail 
+2024-08-16 07:35:03 error : Account does not exist 
+2024-08-16 07:35:54 error : Insufficient balance to complete this transfer 
+2024-08-16 07:42:37 error : Amount must be above zero 
+2024-08-16 15:44:27 error : Insufficient balance to complete this transfer 
+2024-08-16 15:44:34 error : Invalid payment account , please try another payout method 
+2024-08-16 15:49:48 error : Account does not exist 
+2024-08-16 15:52:52 error : Invalid payment account , please try another payout method 
+2024-08-16 15:55:21 error : Invalid payment account , please try another payout method 
+2024-08-16 16:02:35 error : Invalid payment account , please try another payout method 
+2024-08-16 16:07:55 error : Invalid payment account , please try another payout method 
+2024-08-16 16:08:17 error : Invalid payment account , please try another payout method 
+2024-08-16 16:08:40 error : Invalid payment account , please try another payout method 
+2024-08-16 16:43:49 error : Invalid payment account , please try another payout method 
+2024-08-16 16:44:55 error : Invalid payment account , please try another payout method 
+2024-08-16 16:45:11 error : Invalid payment account , please try another payout method 
+2024-08-16 16:45:24 error : Invalid payment account , please try another payout method 
+2024-08-16 17:10:34 error : Authorization failed 
+2024-08-17 07:32:42 error : Authorization failed 
+2024-08-17 15:44:23 error : Authorization failed 
+2024-08-17 15:47:33 error : Authorization failed 
+2024-08-17 15:49:36 error : Invalid role(s): undefined 
+2024-08-17 15:49:56 error : Authorization failed 
+2024-08-17 15:53:29 error : Authorization failed 
+2024-08-17 16:20:48 error : Invalid Permission 
+2024-08-17 16:32:35 error : Authorization failed 
+2024-08-17 16:56:45 error : Payee does not exist 
+2024-08-17 17:35:19 error : amount is a required field 
+2024-08-17 17:35:39 error : amount is a required field 
+2024-08-17 17:35:59 error : amount is a required field 
+2024-08-17 17:38:55 error : Account does not exist 
+2024-08-17 17:41:23 error : Account frozen 
+2024-08-17 17:42:44 error : Account frozen 
+2024-08-17 17:45:26 error : status must be one of the following values: ACTIVE, INACTIVE, SUSPENDED, FROZEN, DELETED 
+2024-08-17 17:46:01 error : You already have a loan pending on this account 
+2024-08-17 17:52:31 error : Account does not exist 
+2024-08-17 18:10:44 error : loanId is a required field 
